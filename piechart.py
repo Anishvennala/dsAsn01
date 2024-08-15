@@ -18,5 +18,7 @@ plt.pie(df['Percentage'], labels=df['Soda'], colors = ['brown', 'white', 'red', 
 plt.title('Soda Sales Distribution')
 plt.show()
 
-
+print()
+print()
+print()
 
